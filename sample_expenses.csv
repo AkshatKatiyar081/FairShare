@@ -1,0 +1,6 @@
+payer,amount,mode,participants
+Asha,300,equal,Asha;Bala;Chen
+Bala,90.50,shares,Asha:1;Bala:2
+Chen,100,percent,Asha:50;Chen:50
+Dev,1200,exact,Asha:400;Bala:300;Chen:250;Dev:250
+Asha,45.99,equal,Bala;Chen;Dev
